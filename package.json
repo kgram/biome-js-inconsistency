@@ -1,0 +1,12 @@
+{
+  "name": "biome-js-inconsistency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@biomejs/biome": "^2.2.2"
+  }
+}
